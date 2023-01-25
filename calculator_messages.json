@@ -1,0 +1,27 @@
+{
+  "en": {
+    "intro": "Hello! Bonjour! Please select your language:\n EN: English\n FR: Français",
+    "welcome": "Welcome to my Awesome Calculator! Please enter your name.",
+   "invalidName": "Make sure to enter a valid name.",
+    "num1": "What's the first number?",
+    "num2": "What's the second number?",
+    "invalidNumber": "Hmm... that doesn't look like a valid number.",
+    "operation": "What operation would you like to perform?\n 1) Add 2) Substract 3) Multiply 4) Divide",
+    "invalidOperation": "Must choose 1, 2, 3, or 4.",
+    "result": "The result is:",
+    "infinity": "An error! You cannot divide by zero.",
+    "runProgram": "Would you like to perform another calculation? Y / N"
+  },
+  "fr": {
+    "welcome": "Bienvenue à ma calculatrice géniale! SVP veuillez entrer votre nom:",
+    "invalidName": "SVP veuillez entrer un nom valide.",
+    "num1": "Quel est le premier numéro?",
+    "num2": "Quel est le deuxième numéro?",
+    "invalidNumber": "Hmm... ce n'est pas un numéro valide.",
+    "operation": "Quel opération voulez-vous effectuer?\n 1) Additioner 2) Soustraire 3) Mutiplier 4) Diviser",
+    "invalidOperation": "Vous devez choisir 1, 2, 3, ou 4.",
+    "result": "Le résultat est:",
+    "infinity": "Une Erreur! Vous ne pouvez pas diviser par zéro.",
+    "runProgram": "Voulez-vous effectuer un autre calcul? 'Y': oui / 'N':non"
+  }
+}
