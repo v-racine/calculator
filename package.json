@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "My calculator!",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-racine/calculator.git"
+  },
+  "author": "Valerie Racine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-racine/calculator/issues"
+  },
+  "homepage": "https://github.com/v-racine/calculator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
