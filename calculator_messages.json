@@ -10,7 +10,8 @@
     "invalidOperation": "Must choose 1, 2, 3, or 4.",
     "result": "The result is:",
     "infinity": "An error! You cannot divide by zero.",
-    "runProgram": "Would you like to perform another calculation? Y / N"
+    "runProgram": "Would you like to perform another calculation? Y / N",
+    "invalidChoice": "Invalid Choice: Please choose Y or N."
   },
   "fr": {
     "welcome": "Bienvenue à ma calculatrice géniale! SVP veuillez entrer votre nom:",
@@ -22,6 +23,7 @@
     "invalidOperation": "Vous devez choisir 1, 2, 3, ou 4.",
     "result": "Le résultat est:",
     "infinity": "Une Erreur! Vous ne pouvez pas diviser par zéro.",
-    "runProgram": "Voulez-vous effectuer un autre calcul? 'Y': oui / 'N':non"
+    "runProgram": "Voulez-vous effectuer un autre calcul? 'Y': oui / 'N':non",
+    "invalidChoice": "Choix invalide: SVP veuillez choisir Y ou N"
   }
 }
